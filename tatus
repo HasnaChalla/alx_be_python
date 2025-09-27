@@ -1,0 +1,89 @@
+[33mcommit 0c26ce7a30e9a0e80a8e24cb8d52e78c670500de[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Hasna_challa <challahasna@gmail.com>
+Date:   Sat Sep 20 21:20:14 2025 +0200
+
+    Add daily_reminder.py and do Task 4
+
+[33mcommit 70fd2fdeaee2c57ad7140d9a6b67e514ac1bd132[m
+Author: Hasna_challa <challahasna@gmail.com>
+Date:   Sat Sep 20 20:52:15 2025 +0200
+
+    Add pattern_drawing.py and do task 3
+
+[33mcommit ef9a2e82d4bf07669dbb8c4f3c60f37f8e87a664[m
+Author: Hasna_challa <challahasna@gmail.com>
+Date:   Sat Sep 20 20:14:41 2025 +0200
+
+    Correct multiplication_table.py file.
+
+[33mcommit 07c0d52c4196931f3e79e93bdc0c6ab28d667567[m
+Author: Hasna_challa <challahasna@gmail.com>
+Date:   Sat Sep 20 20:08:19 2025 +0200
+
+    Correct variables in multiplication_table.py file
+
+[33mcommit 781245f0e11f249d48aca55db7aa1a6aebda02e9[m
+Author: Hasna_challa <challahasna@gmail.com>
+Date:   Sat Sep 20 20:02:49 2025 +0200
+
+    Add multiplication_table.py and do task 2
+
+[33mcommit 26901cc70d09d851c1b240ab8e77046858b6fe86[m
+Author: Hasna_challa <challahasna@gmail.com>
+Date:   Sat Sep 20 19:49:15 2025 +0200
+
+    Add match_case_calculator.py file and do Task 1
+
+[33mcommit 337f4a4861437506aee32862ca227ada7f1f5cb4[m
+Author: Hasna_challa <challahasna@gmail.com>
+Date:   Sat Sep 20 19:32:28 2025 +0200
+
+     Add Weatheradvice file and make Task 0
+
+[33mcommit 4d7e69bb2fbdf74219278a9b9470658502dcf757[m
+Author: Hasna_challa <challahasna@gmail.com>
+Date:   Fri Sep 12 20:01:53 2025 +0200
+
+    correct variable name in file finance_calculator.py
+
+[33mcommit 2b17d0a595040b6c39dc5f16259f8b92dd6834e7[m
+Author: Hasna_challa <challahasna@gmail.com>
+Date:   Fri Sep 12 19:58:23 2025 +0200
+
+    correct file finance_calculator.py
+
+[33mcommit f48824015f4561cd259f51c8a03d7f67fdd11a25[m
+Author: Hasna_challa <challahasna@gmail.com>
+Date:   Fri Sep 12 19:51:29 2025 +0200
+
+    Add Personal Finance Calculator
+
+[33mcommit 31786380f158609ec4ec7f645073e59c1d2230e6[m
+Author: Hasna_challa <challahasna@gmail.com>
+Date:   Fri Sep 12 19:35:06 2025 +0200
+
+    Add User Input Age Calculator
+
+[33mcommit 17e27b7cc67c8ce925b1da653d7088d977b8c53f[m
+Author: Hasna_challa <challahasna@gmail.com>
+Date:   Fri Sep 12 19:25:17 2025 +0200
+
+    Add Convert Hours to Seconds
+
+[33mcommit 6432fe4a1d45dc429c0131aab285349be04b59d4[m
+Author: Hasna_challa <challahasna@gmail.com>
+Date:   Fri Sep 12 19:17:08 2025 +0200
+
+    Add Calculate the Area of a Rectangle
+
+[33mcommit 767ba670d5c5539829e3ae8edf58c5b36c368a18[m
+Author: Hasna_challa <challahasna@gmail.com>
+Date:   Fri Sep 12 19:10:53 2025 +0200
+
+    Add Simple Interest Calculator
+
+[33mcommit 60c6666d3891243cd20c6439d027fb3f3ea237cc[m
+Author: Hasna_challa <challahasna@gmail.com>
+Date:   Fri Sep 12 18:59:39 2025 +0200
+
+    Initial commit
