@@ -8,6 +8,7 @@ def perform_operation(num1, num2, operation):
     elif operation == 'divide':
         if num2 == 0:
             print("Error: Division by zero")
+            return None
         else:
             print(f"result : ", num1 / num2)
     else:
