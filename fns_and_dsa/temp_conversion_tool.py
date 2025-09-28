@@ -21,3 +21,5 @@ if temperature_unit.upper() == "C":
     convert_to_fahrenheit(temperature)
 elif temperature_unit.upper() == "F":
     convert_to_celsius(temperature)
+else:
+    print("Invalid temperature. Please enter a numeric value.")
