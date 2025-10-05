@@ -26,7 +26,7 @@ class Library:
             return True
         return False
 
-    def list_available_books():
+    def list_available_books(self):
         available_books = [book for book in self._books if book.is_available()]
         if available_books:
             for book in available_books:
