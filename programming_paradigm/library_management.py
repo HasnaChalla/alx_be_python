@@ -19,12 +19,12 @@ class Library:
                 return True
             return False
 
-    def return_book(self, title):
-        for book in self._books:
-            if book.title == title and book._is_checked_out:
-                book._is_checked_out = False
-                return True
-            return False
+    def return_book(self):
+        if self._last_checked_out:
+            self._last_checked_out._is_checked_out = False
+            self._last_checked_out = None
+            return True
+        return False
 
     def list_available_books():
         available_books = [book for book in self._books if book.is_available()]
