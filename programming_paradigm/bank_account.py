@@ -28,5 +28,9 @@ class BankAccount:
         return True
 
     def display_balance(self):
+<<<<<<< HEAD
         print(f"[DEBUG] display_balance() called")
         print(f"Current Balance: ${self.account_balance}")
+=======
+        print(f"Current Balance: ${self.account_balance:.2f}")
+>>>>>>> c9a2f404c4debff78fd0c14ef20419405015214f
