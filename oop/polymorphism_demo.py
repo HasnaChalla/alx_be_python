@@ -20,9 +20,9 @@ class Rectangle(Shape):
 
 
 class Circle(Shape):
-    def __init__(self, raduis):
+    def __init__(self, radius):
         super().__init__()
-        self.raduis = raduis
+        self.radius = radius
 
     def area(self):
-        return math.pi * self.raduis ** 2
+        return math.pi * self.radius ** 2
